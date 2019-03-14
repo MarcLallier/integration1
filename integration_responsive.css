@@ -1,0 +1,148 @@
+                                                                /*#########_HEADER_#########*/
+
+/*###_NAVBAR_###*/
+
+
+.navbar-brand ,.navbar-nav {
+    background-color : grey;
+    
+}
+
+/*###_CAROUSEL_###*/
+
+.first_title {
+    font-size : 3em;
+    margin-top :100px;
+    text-align: center;
+}
+
+.img_carousel {
+    height: 300px;
+    width: 600px;
+}
+
+/*###_BOUTON_PILL_###*/
+
+.badge {
+    height: 50px;
+
+}
+
+/*###_SEPARATION HR_###*/
+hr {
+    background-color: red;
+    height: 5px;
+    margin-top: 50px;
+    width: 80%;
+}
+
+                                                            /*#########_SECTION_2_my_reward_#########*/
+
+.second_title {
+    font-size : 3em;
+    margin-top :100px;
+    text-align: center;
+}
+
+.text_section2 {
+    text-align: left;
+}
+
+.large_button {
+    margin-left:30%;
+    margin-top:50px;
+    width:40%;
+}
+
+                                                            /*#########_SECTION_3_Best Hunters_#########*/
+
+.third_title {
+    font-size : 3em;
+    margin-top :100px;
+    text-align: center;
+}
+
+.card_class{
+    margin-top:100px;
+}
+.click {
+    margin-left:30%;
+    margin-top:50px;
+    width:40%;
+}
+
+section {
+    width: 100vw;display: block;
+}
+
+                                                           /*#########_SECTION_4_About the ring_#########*/
+
+.fourth_title {
+    font-size : 3em;
+    margin-top :100px;
+    text-align: center;
+}
+
+th,td {
+    height:50px;
+    width:200px;
+}
+
+.circle_pict {
+    background-image: url('https://ugc.kn3.net/i/760x/http://i40.servimg.com/u/f40/12/30/53/92/gollum13.jpg');
+    border-radius:50px;
+    max-height:110px;
+    max-width:110px;
+    min-height:110px;
+    min-width:110px;
+    
+}
+
+.card-title, {
+    text-align: left;
+}
+
+/*.card-text p {
+    margin-right: 300px; display: inline;
+    text-align: right;
+}*/
+
+.card-header {
+    text-align: left;
+}
+
+                                                            /*#########_SECTION_5_Join_Army_#########*/
+
+.fifth_title {
+    font-size : 3em;
+    margin-top :100px;
+    text-align: center;
+}   
+
+.button_army {
+    margin-left:30%;
+    margin-top:50px;
+    min-width:20%;font-size: 10px;
+}
+
+
+                                                            /*#########_SECTION_6_Contact us_#########*/
+                                                            
+.sixth_title {
+font-size : 3em;
+margin-top :100px;
+text-align: center;
+}
+
+                                                            /*#########_SECTION_7_Footer_#########*/
+
+
+.footer_block {
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+}
+
+li {
+    list-style-type: none;
+}
